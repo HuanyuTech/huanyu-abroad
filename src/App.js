@@ -39,7 +39,7 @@ function App() {
           <Routes>
             <Route path="/*" element={<Home />} />
             <Route path="/contact" element={<Contact />} />
-            <Route path="/ai-recommendation" element={<AIRecommendation/>} /> 
+            {/* <Route path="/ai-recommendation" element={<AIRecommendation/>} />  */}
           </Routes>
         </ScrollToTop>
       </Router>

@@ -6,7 +6,7 @@ import axios from 'axios';
 import Notiflix from 'notiflix';
 
 const AIRecommendation = () => {
-    useDocTitle('寰宇留学 | 上传简历获取推荐学校')
+    useDocTitle('寰宇留学 | 做您贴心的留学管家')
 
     const [resume, setResume] = useState(null);
     const [recommendedSchools, setRecommendedSchools] = useState([]);
