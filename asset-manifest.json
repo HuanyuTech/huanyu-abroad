@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/huanyu-abroad/static/css/main.7ce56045.css",
-    "main.js": "/huanyu-abroad/static/js/main.eede9fac.js",
+    "main.js": "/huanyu-abroad/static/js/main.eb284e66.js",
     "static/media/consultation.svg": "/huanyu-abroad/static/media/consultation.ede9466b3634733f30c8d1a1b7bbe939.svg",
     "static/media/web-dev.svg": "/huanyu-abroad/static/media/web-dev.fd61237124f5b922e412437caf61ea58.svg",
     "static/media/hosting.svg": "/huanyu-abroad/static/media/hosting.b755d3eebb287dde8fcd287cb1d5653e.svg",
@@ -13,10 +13,10 @@
     "index.html": "/huanyu-abroad/index.html",
     "static/media/hero-bg.svg": "/huanyu-abroad/static/media/hero-bg.c3b4448a16ff1a8da834.svg",
     "main.7ce56045.css.map": "/huanyu-abroad/static/css/main.7ce56045.css.map",
-    "main.eede9fac.js.map": "/huanyu-abroad/static/js/main.eede9fac.js.map"
+    "main.eb284e66.js.map": "/huanyu-abroad/static/js/main.eb284e66.js.map"
   },
   "entrypoints": [
     "static/css/main.7ce56045.css",
-    "static/js/main.eede9fac.js"
+    "static/js/main.eb284e66.js"
   ]
 }
